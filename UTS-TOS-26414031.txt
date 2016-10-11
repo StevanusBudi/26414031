@@ -1,0 +1,17 @@
+1. 0 7-19 * * 1-5 / 
+
+2. 
+
+3. 
+\documentclass{article}
+\usepackage{booktabs}
+\begin{document}
+\begin{center}
+\begin{tabular}{ |c|c|c| }
+ASN & AS Name & IPv6 Capable & IPv6 Prefered & Samples\\
+AS134662 & DELORA-AS-AP PT Delora Hosting Media & 0 & 0 & 1
+\end{tabular}
+\end{center}
+\end{document}
+
+4. 
